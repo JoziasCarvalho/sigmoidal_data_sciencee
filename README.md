@@ -21,6 +21,6 @@ My credentials include a course taken with a highly renowned professor in Brazil
 ## Projetos:
 Veja os tutoriais publicados do Jozias Carvalho:
 
-* **O que é Data Science e para que podemos utilizá-lo?** 
+* **Desafio do Titanic:** 
 
 ---
