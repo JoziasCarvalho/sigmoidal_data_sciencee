@@ -14,14 +14,13 @@ My credentials include a course taken with a highly renowned professor in Brazil
 **Background in:** Python, Machine Learning, Computer Vision,
 
 **Links:**
-* [Blog](https://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](https://www.linkedin.com/in/jozias-carvalho/)
 * [Medium](https://www.medium.com)
 
 
 ## Projetos:
 Veja os tutoriais publicados do Jozias Carvalho:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **O que é Data Science e para que podemos utilizá-lo?** 
 
 ---
