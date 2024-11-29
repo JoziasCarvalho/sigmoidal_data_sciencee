@@ -19,8 +19,8 @@ My credentials include a course taken with a highly renowned professor in Brazil
 
 
 ## Projetos:
-Veja os tutoriais publicados do Jozias Carvalho:
+Veja os projetos publicados do Jozias Carvalho:
 
-* **Data Science, Desafio do Titanic: Investigando o naufrágio** 
+* **Data Science, Desafio do Titanic: Investigando o naufrágio** (em andamento)
 
 ---
